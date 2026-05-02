@@ -11,7 +11,7 @@ Genome-Llama-2 is a family of autoregressive large language models with sizes ra
 -  Medium model: 411 million parameters.
 -  Large model: 744 million parameters.
 
-By treating genome sequences as text, Genome-Llama-2 can learn intricate patterns and relationships within the data. This capability makes it suitable for a range of tasks, including Epigenetic Marks Prediction, Covid Variants Classification, Splice Site Prediction, and other tasks specified by the [GUE benchmark](https://github.com/MAGICS-LAB/DNABERT_2). **The corresponding paper can be found [here](https://github.com/bkmulusew/genome_llama2/blob/main/report.pdf)**
+By treating genome sequences as text, Genome-Llama-2 can learn intricate patterns and relationships within the data. This capability makes it suitable for a range of tasks, including Epigenetic Marks Prediction, Covid Variants Classification, Splice Site Prediction, and other tasks specified by the [GUE benchmark](https://github.com/MAGICS-LAB/DNABERT_2). **The corresponding paper can be found [here](https://github.com/bkmulusew/genome_llama2/blob/main/report.pdf).**
 
 This repository contains the complete training pipeline for Genome-Llama-2, leveraging PyTorch Lightning to enable efficient training in a distributed environment. Whether you are a researcher or developer, Genome-Llama-2 offers a robust framework for advancing your genomic studies.
 
